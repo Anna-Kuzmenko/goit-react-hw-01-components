@@ -1,5 +1,5 @@
 import TransactionTableBody from '../TransactionTableBody/TransactionTableBody';
-import transactions from '../../transactions.json';
+import transactions from '../../data/transactions.json';
 
 import { TransactionTable, TrTableHead, Th } from './TransactionHistory.styled';
 
